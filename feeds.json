@@ -1,13 +1,8 @@
 [
   {
-    "source": "Sri Lanka tech not cricket",
-    "url": "https://news.google.com/rss/search?q=(%22Sri%20Lanka%22%20AND%20(technology%20OR%20tech))%20-cricket&hl=en-AU&gl=AU&ceid=AU%3Aen",
-    "uniqueid": "maCAYr6FNCvIFgfQJJUWNuLRDAvg2Lm9aQhlb8IpzhM"
-  },
-  {
-    "source": "GNews 總統罷免條件",
-    "url": "https://news.google.com/rss/search?q=總統罷免條件&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
-    "uniqueid": "DPwlTrZS19VcFhcDRstR12Kn7tgs0J2bJSypoWC3goI"
+    "source": "BBC News 中文",
+    "url": "https://feeds.bbci.co.uk/zhongwen/trad/rss.xml",
+    "uniqueid": "ZlQ0EY7QUOI6q1I0nORGPyM2N9GiT0xbQ0lW9guu5NI"
   },
   {
     "source": "Subcables",
